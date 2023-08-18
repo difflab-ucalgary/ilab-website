@@ -1,0 +1,13 @@
+date: 2023-05
+title: "Prototyping Soft Devices with Interactive Bioplastics"
+authors:
+  - Peter Tran
+  - Purna Gadepalli
+  - Jaeyeon Lee
+  - Aditya Shekhar Nittala
+series: CHI 2023
+doi: https://dl.acm.org/doi/abs/10.1145/3544548.3581473
+keywords: On-Body Interaction, Epidermal Interfaces, Wearables, Haptics, Vibrotactile Actuation, Fingernail devices
+video: https://www.youtube.com/watch?v=h-i4CyZ9T7I
+pages: 13
+abstract: "The key assumption attributed to on-body touch input is that the skin being touched provides natural tactile feedback. In this paper, we for the first time systematically explore augmenting on-body touch input with computer-generated tactile feedback. We employ vibrotactile actuation on the fingernail to couple on-body touch input with tactile feedback. Results from our first experiment show that users prefer tactile feedback for on-body touch input. In our second experiment, we determine the frequency thresholds for rendering realistic tactile “click” sensations for on-body touch buttons on three different body locations. Finally, in our third experiment, we dig deeper to render highly expressive tactile effects with a single actuator. Our non-metric multi-dimensional analysis shows that haptic augmentation of on-body buttons enhances the expressivity of on-body touch input. Overall, results from our experiments reinforce the need for tactile feedback for on-body touch input and show that actuation on the fingernail is a promising approach."
